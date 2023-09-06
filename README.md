@@ -35,7 +35,7 @@ The dataset comprises several attributes, including date of occurrence, area, cr
 - Scikit-learn
 
 ## License
-
+[License](https://github.com/hafidaso/Competition-Analyzing-Crimes-in-LA/blob/main/LICENSE)
 
 ## Contact
 - 📧 Email: [hafidabelaidagnaoui@gmail.com](mailto:hafidabelaidagnaoui@gmail.com)
