@@ -2,7 +2,7 @@
 
 This project provides a comprehensive analysis of crime patterns in Los Angeles based on LAPD's crime dataset spanning 2020 to 2022.
 
-![Image: Optional visualization or project logo](URL_TO_IMAGE_OR_VISUALIZATION)
+![Image](https://github.com/hafidaso/Competition-Analyzing-Crimes-in-LA/blob/main/la_skyline.jpg)
 
 ## Table of Contents
 - [Overview](#overview)
