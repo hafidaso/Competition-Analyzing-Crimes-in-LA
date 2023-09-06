@@ -9,14 +9,13 @@ This project provides a comprehensive analysis of crime patterns in Los Angeles 
 - [Dataset Description](#dataset-description)
 - [Key Insights](#key-insights)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Overview
-The primary objective of this analysis is to uncover trends and patterns in the crime data, which can aid the LAPD in decision-making, resource allocation, and strategic planning.
+The primary objective of this analysis is to uncover trends and patterns in crime data, which can aid the LAPD in decision-making, resource allocation, and strategic planning.
 
 ## Dataset Description
 The dataset comprises several attributes, including date of occurrence, area, crime type, victim details, and more. [More details here](LINK_TO_DETAILED_DATASET_DESCRIPTION).
@@ -35,10 +34,3 @@ The dataset comprises several attributes, including date of occurrence, area, cr
 - Matplotlib
 - Scikit-learn
 
-## Setup
-Instructions on setting up the project locally:
-
-```bash
-git clone REPO_URL
-cd DIRECTORY_NAME
-pip install -r requirements.txt
