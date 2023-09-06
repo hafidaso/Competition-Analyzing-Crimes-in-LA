@@ -18,7 +18,7 @@ This project provides a comprehensive analysis of crime patterns in Los Angeles 
 The primary objective of this analysis is to uncover trends and patterns in crime data, which can aid the LAPD in decision-making, resource allocation, and strategic planning.
 
 ## Dataset Description
-The dataset comprises several attributes, including date of occurrence, area, crime type, victim details, and more. [More details here](LINK_TO_DETAILED_DATASET_DESCRIPTION).
+The dataset comprises several attributes, including date of occurrence, area, crime type, victim details, and more. [More details here](https://github.com/hafidaso/Competition-Analyzing-Crimes-in-LA/blob/main/data.zip).
 
 ## Key Insights
 - Peak crime times are Fridays and late evenings (6 PM-12 AM).
@@ -26,7 +26,7 @@ The dataset comprises several attributes, including date of occurrence, area, cr
 - Residential zones witness high incidences of identity thefts and intimate partner assaults.
 - Handguns and firearms are predominantly used in violent crimes.
 
-[See detailed analysis and visualizations here](LINK_TO_DETAILED_ANALYSIS).
+[See detailed analysis and visualizations here](https://github.com/hafidaso/Competition-Analyzing-Crimes-in-LA/blob/main/Competition%20-%20Analyzing%20Crimes%20in%20LA.ipynb).
 
 ## Technologies Used
 - Python
@@ -39,5 +39,5 @@ The dataset comprises several attributes, including date of occurrence, area, cr
 
 ## Contact
 - 📧 Email: [hafidabelaidagnaoui@gmail.com](mailto:hafidabelaidagnaoui@gmail.com)
-- 🌐 Website: [yourwebsite.com](http://yourwebsite.com)
-- 🔗 LinkedIn: [Your Name](https://www.linkedin.com/in/yourlinkedinprofile/)
+- 🌐 Website: [https://ymadigital.com/](https://ymadigital.com/)
+- 🔗 LinkedIn: [Hafida Belayd](https://www.linkedin.com/in/hafida-belayd/)
