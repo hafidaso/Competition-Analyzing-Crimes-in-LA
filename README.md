@@ -38,3 +38,6 @@ The dataset comprises several attributes, including date of occurrence, area, cr
 
 
 ## Contact
+- 📧 Email: [hafidabelaidagnaoui@gmail.com](mailto:hafidabelaidagnaoui@gmail.com)
+- 🌐 Website: [yourwebsite.com](http://yourwebsite.com)
+- 🔗 LinkedIn: [Your Name](https://www.linkedin.com/in/yourlinkedinprofile/)
